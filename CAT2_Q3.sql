@@ -1,6 +1,6 @@
 /*Create database KCA*/
 CREATE DATABASE KCA;
-
+USE KCA;
 
 /*Create table*/
 CREATE TABLE employees(
